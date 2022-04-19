@@ -7,15 +7,15 @@
           "name": "TITLE 01-GENERAL PROVISIONS",
           "children": [
               {
-                  "path": "TITLE 01-GENERAL PROVISIONS/CHAPTER 1-RULES OF CONSTRUCTION",
+                  "path": "TITLE 01-GENERAL PROVISION",
                   "name": "CHAPTER 1-RULES OF CONSTRUCTION.md"
               },
               {
-                  "path": "TITLE 01-GENERAL PROVISIONS/CHAPTER 2-ACTS AND RESOLUTIONS; FORMALITIES OF ENACTMENT; REPEALS; SEALING OF INSTRUMENTS",
+                  "path": "TITLE 01-GENERAL PROVISIONS",
                   "name": "CHAPTER 2-ACTS AND RESOLUTIONS; FORMALITIES OF ENACTMENT; REPEALS; SEALING OF INSTRUMENTS.md"
               },
               {
-                  "path": "TITLE 01-GENERAL PROVISIONS/CHAPTER 3-CODE OF LAWS OF UNITED STATES AND SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND SUPPLEMENTS",
+                  "path": "TITLE 01-GENERAL PROVISIONS",
                   "name": "CHAPTER 3-CODE OF LAWS OF UNITED STATES AND SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND SUPPLEMENTS.md"
               }
           ]
