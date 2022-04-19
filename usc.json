@@ -8061,7 +8061,7 @@
                   "name": "CHAPTER 01-GENERAL PROVISIONS",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 01-GENERAL PROVISIONS/CHAPTER 01-GENERAL PROVISIONS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 01-GENERAL PROVISIONS",
                           "name": "CHAPTER 01-GENERAL PROVISIONS.md"
                       }
                   ]
@@ -8071,19 +8071,19 @@
                   "name": "CHAPTER 03-CASE ADMINISTRATION",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION/SUBCHAPTER I-COMMENCEMENT OF A CASE",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION",
                           "name": "SUBCHAPTER I-COMMENCEMENT OF A CASE.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION/SUBCHAPTER II-OFFICERS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION",
                           "name": "SUBCHAPTER II-OFFICERS.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION/SUBCHAPTER III-ADMINISTRATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION",
                           "name": "SUBCHAPTER III-ADMINISTRATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION/SUBCHAPTER IV-ADMINISTRATIVE POWERS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 03-CASE ADMINISTRATION",
                           "name": "SUBCHAPTER IV-ADMINISTRATIVE POWERS.md"
                       }
                   ]
@@ -8093,15 +8093,15 @@
                   "name": "CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE/SUBCHAPTER I-CREDITORS AND CLAIMS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE",
                           "name": "SUBCHAPTER I-CREDITORS AND CLAIMS.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE/SUBCHAPTER II-DEBTOR'S DUTIES AND BENEFITS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE",
                           "name": "SUBCHAPTER II-DEBTOR'S DUTIES AND BENEFITS.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE/SUBCHAPTER III-THE ESTATE",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 05-CREDITORS, THE DEBTOR, AND THE ESTATE",
                           "name": "SUBCHAPTER III-THE ESTATE.md"
                       }
                   ]
@@ -8111,23 +8111,23 @@
                   "name": "CHAPTER 07-LIQUIDATION",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION/SUBCHAPTER I-OFFICERS AND ADMINISTRATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION",
                           "name": "SUBCHAPTER I-OFFICERS AND ADMINISTRATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION/SUBCHAPTER II-COLLECTION, LIQUIDATION, AND DISTRIBUTION OF THE ESTATE",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION",
                           "name": "SUBCHAPTER II-COLLECTION, LIQUIDATION, AND DISTRIBUTION OF THE ESTATE.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION/SUBCHAPTER III-STOCKBROKER LIQUIDATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION",
                           "name": "SUBCHAPTER III-STOCKBROKER LIQUIDATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION/SUBCHAPTER IV-COMMODITY BROKER LIQUIDATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION",
                           "name": "SUBCHAPTER IV-COMMODITY BROKER LIQUIDATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION/SUBCHAPTER V-CLEARING BANK LIQUIDATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 07-LIQUIDATION",
                           "name": "SUBCHAPTER V-CLEARING BANK LIQUIDATION.md"
                       }
                   ]
@@ -8137,15 +8137,15 @@
                   "name": "CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY/SUBCHAPTER I-GENERAL PROVISIONS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY",
                           "name": "SUBCHAPTER I-GENERAL PROVISIONS.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY/SUBCHAPTER II-ADMINISTRATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY",
                           "name": "SUBCHAPTER II-ADMINISTRATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY/SUBCHAPTER III-THE PLAN",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 09-ADJUSTMENT OF DEBTS OF A MUNICIPALITY",
                           "name": "SUBCHAPTER III-THE PLAN.md"
                       }
                   ]
@@ -8155,23 +8155,23 @@
                   "name": "CHAPTER 11-REORGANIZATION",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION/SUBCHAPTER I-OFFICERS AND ADMINISTRATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION",
                           "name": "SUBCHAPTER I-OFFICERS AND ADMINISTRATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION/SUBCHAPTER II-THE PLAN",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION",
                           "name": "SUBCHAPTER II-THE PLAN.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION/SUBCHAPTER III-POSTCONFIRMATION MATTERS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION",
                           "name": "SUBCHAPTER III-POSTCONFIRMATION MATTERS.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION/SUBCHAPTER IV-RAILROAD REORGANIZATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION",
                           "name": "SUBCHAPTER IV-RAILROAD REORGANIZATION.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION/SUBCHAPTER V-SMALL BUSINESS DEBTOR REORGANIZATION",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 11-REORGANIZATION",
                           "name": "SUBCHAPTER V-SMALL BUSINESS DEBTOR REORGANIZATION.md"
                       }
                   ]
@@ -8181,11 +8181,11 @@
                   "name": "CHAPTER 12-ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 12-ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME/SUBCHAPTER I-OFFICERS, ADMINISTRATION, AND THE ESTATE",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 12-ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME",
                           "name": "SUBCHAPTER I-OFFICERS, ADMINISTRATION, AND THE ESTATE.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 12-ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME/SUBCHAPTER II-THE PLAN",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 12-ADJUSTMENT OF DEBTS OF A FAMILY FARMER OR FISHERMAN WITH REGULAR ANNUAL INCOME",
                           "name": "SUBCHAPTER II-THE PLAN.md"
                       }
                   ]
@@ -8195,11 +8195,11 @@
                   "name": "CHAPTER 13-ADJUSTMENT OF DEBTS OF AN INDIVIDUAL WITH REGULAR INCOME",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 13-ADJUSTMENT OF DEBTS OF AN INDIVIDUAL WITH REGULAR INCOME/SUBCHAPTER I-OFFICERS, ADMINISTRATION, AND THE ESTATE",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 13-ADJUSTMENT OF DEBTS OF AN INDIVIDUAL WITH REGULAR INCOME",
                           "name": "SUBCHAPTER I-OFFICERS, ADMINISTRATION, AND THE ESTATE.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 13-ADJUSTMENT OF DEBTS OF AN INDIVIDUAL WITH REGULAR INCOME/SUBCHAPTER II-THE PLAN",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 13-ADJUSTMENT OF DEBTS OF AN INDIVIDUAL WITH REGULAR INCOME",
                           "name": "SUBCHAPTER II-THE PLAN.md"
                       }
                   ]
@@ -8209,27 +8209,27 @@
                   "name": "CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                   "children": [
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES/Sec. 1501",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                           "name": "Sec. 1501.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES/SUBCHAPTER I-GENERAL PROVISIONS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                           "name": "SUBCHAPTER I-GENERAL PROVISIONS.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES/SUBCHAPTER II-ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                           "name": "SUBCHAPTER II-ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES/SUBCHAPTER III-RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                           "name": "SUBCHAPTER III-RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES/SUBCHAPTER IV-COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                           "name": "SUBCHAPTER IV-COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES.md"
                       },
                       {
-                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES/SUBCHAPTER V-CONCURRENT PROCEEDINGS",
+                          "path": "TITLE 11-BANKRUPTCY/CHAPTER 15-ANCILLARY AND OTHER CROSS-BORDER CASES",
                           "name": "SUBCHAPTER V-CONCURRENT PROCEEDINGS.md"
                       }
                   ]
@@ -8245,67 +8245,67 @@
                   "name": "FEDERAL RULES OF BANKRUPTCY PROCEDURE",
                   "children": [
                       {
-                          "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/APPENDIX",
+                          "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE",
                           "name": "APPENDIX",
                           "children": [
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/APPENDIX/APPENDIX",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/APPENDIX",
                                   "name": "APPENDIX.md"
                               }
                           ]
                       },
                       {
-                          "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
+                          "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE",
                           "name": "BANKRUPTCY RULES",
                           "children": [
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART I-COMMENCEMENT OF CASE; PROCEEDINGS RELATING TO PETITION AND ORDER FOR RELIEF",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART I-COMMENCEMENT OF CASE; PROCEEDINGS RELATING TO PETITION AND ORDER FOR RELIEF.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART II-OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS; ATTORNEYS AND ACCOUNTANTS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART II-OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS; ATTORNEYS AND ACCOUNTANTS.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART III-CLAIMS AND DISTRIBUTION TO CREDITORS AND EQUITY INTEREST HOLDERS; PLANS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART III-CLAIMS AND DISTRIBUTION TO CREDITORS AND EQUITY INTEREST HOLDERS; PLANS.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART IV-THE DEBTOR_ DUTIES AND BENEFITS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART IV-THE DEBTOR_ DUTIES AND BENEFITS.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART IX-GENERAL PROVISIONS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART IX-GENERAL PROVISIONS.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART V-COURTS AND CLERKS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART V-COURTS AND CLERKS.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART VI-COLLECTION AND LIQUIDATION OF THE ESTATE",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART VI-COLLECTION AND LIQUIDATION OF THE ESTATE.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART VII-ADVERSARY PROCEEDINGS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART VII-ADVERSARY PROCEEDINGS.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/PART VIII-APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "PART VIII-APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL.md"
                               },
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES/Rule 1001",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/BANKRUPTCY RULES",
                                   "name": "Rule 1001.md"
                               }
                           ]
                       },
                       {
-                          "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/OFFICIAL FORMS",
+                          "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE",
                           "name": "OFFICIAL FORMS",
                           "children": [
                               {
-                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/OFFICIAL FORMS/OFFICIAL FORMS",
+                                  "path": "TITLE 11a-APPENDIX/FEDERAL RULES OF BANKRUPTCY PROCEDURE/OFFICIAL FORMS",
                                   "name": "OFFICIAL FORMS.md"
                               }
                           ]
